@@ -12,7 +12,7 @@ An interactive experience to explore bikeshare data from three US cities — Chi
 * User info
 
 ### More information
-This project is written in Python, using numpy, pandas, and time libraries.
+This project is written in Python 3.9.13, using numpy, pandas, and time libraries.
 
 ## Files used
 bikeshare.py

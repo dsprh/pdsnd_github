@@ -159,7 +159,7 @@ def trip_duration_stats(df, city):
 
     # display total travel time
     tot_trip = df['Trip Duration'].sum() / 60
-    print(f"The total travel time was: {tot_trip} minutes")
+    print(f"The total travel time was: {round(tot_trip)} minutes")
 
     # display mean travel time
     avg_trip = df['Trip Duration'].mean() / 60

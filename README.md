@@ -1,17 +1,30 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
-### Date created
-Include the date you created this project and README file.
 
-### Project Title
-Replace the Project Title
+# Explore US Bikeshare Data
+## Date created
+May 8, 2023
 
-### Description
-Describe what your project is about and what it does
+## Description
+An interactive experience using Python to explore bikeshare data from three US cities — Chicago, New York, and Washington. Users can query the datasets to gain insight into:
+* Popular times of travel
+* Popular stations and trips
+* Trip duration
+* User info
 
-### Files used
-Include the files used
+## Files used
+bikeshare.py
+chicago.csv
+new_york_city.csv
+washington.csv
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+## Credits
+[Udacity Programming for Data Science with Python course](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104)
+
+[pandas documentation](https://pandas.pydata.org/docs/)
+
+[Stackoverflow](https://stackoverflow.com/questions/53037698/how-can-i-find-the-most-frequent-two-column-combination-in-a-dataframe-in-python)
+
+[LinkedIn Learning — Intermediate Python](https://www.linkedin.com/learning/intermediate-python-for-non-programmers/)
+
+[LinkedIn Learning - Python Essential Training](https://www.linkedin.com/learning/python-essential-training-18764650/)
 

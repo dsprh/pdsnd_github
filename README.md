@@ -5,11 +5,14 @@
 May 8, 2023
 
 ## Description
-An interactive experience using Python to explore bikeshare data from three US cities — Chicago, New York, and Washington. Users can query the datasets to gain insight into:
+An interactive experience to explore bikeshare data from three US cities — Chicago, New York, and Washington. Users can query the datasets to gain insight into:
 * Popular times of travel
 * Popular stations and trips
 * Trip duration
 * User info
+
+### More information
+This project is written in Python, using numpy, pandas, and time libraries.
 
 ## Files used
 bikeshare.py

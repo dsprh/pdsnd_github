@@ -163,7 +163,7 @@ def trip_duration_stats(df, city):
 
     # display mean travel time
     avg_trip = df['Trip Duration'].mean() / 60
-    print(f"The average trip duration was: {avg_trip} minutes")
+    print(f"The average trip duration was: {round(avg_trip)} minutes")
 
     #display min and max trip lengths, rounded to hudredths place for readability
     print(f"The shortest trip length was: {round(np.min(df['Trip Duration'], axis=0) / 60, 2)} minutes")

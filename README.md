@@ -16,9 +16,11 @@ This project is written in Python, using numpy, pandas, and time libraries.
 
 ## Files used
 bikeshare.py
-chicago.csv
-new_york_city.csv
-washington.csv
+
+Date files not included in repository:
+* chicago.csv
+* new_york_city.csv
+* washington.csv
 
 ## Credits
 [Udacity Programming for Data Science with Python course](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104)
